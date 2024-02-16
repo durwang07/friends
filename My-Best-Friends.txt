@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Page Title</title>
+   
+</head>
+<body>
+    <!-- Your content goes here -->
+    <h1>bfffs</h1>
+    <h2>Aditya</h2>
+    <h2>Ashish</h2>
+    <h2>om</h2>
+    <h2>durvang</h2>
+    <h2>adarsh</h2>
+    <h2>rushi</h2>
+    <h2>natha</h2>
+    <p>These are my best friend</p>
+    <!-- Additional body content can be added here -->
+</body>
+</html>
